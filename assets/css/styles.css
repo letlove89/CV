@@ -237,8 +237,6 @@ section {
      object-fit: cover;
   -webkit-transition: all .4s ease-in-out;
   transition: all .4s ease-in-out;
-  -webkit-filter: grayscale(100%);
-          filter: grayscale(100%);
 }
 
 .header-content .left-header .image img:hover {
